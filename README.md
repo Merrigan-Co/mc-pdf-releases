@@ -8,8 +8,7 @@ This repository only holds releases. There's no source code here.
 
 | File | For |
 |---|---|
-| `mcpdf-macos-arm64.zip` | Macs with Apple silicon |
-| `mcpdf-macos-x64.zip` | Intel Macs |
+| `mcpdf-macos-arm64.zip` | Macs with Apple silicon (M1 or later), macOS 26 or later |
 | `mcpdf-windows-x64.zip` | Windows 10 and 11 (64-bit) |
 | `THIRD-PARTY-NOTICES.txt` | The open-source components inside the engine, and their licences |
 
